@@ -4,8 +4,8 @@ public class SecondTest {
 
 	public static void main(String[] args) {
 		
-		int a = 78;
-		int b = 96;
+		int a = 65;
+		int b = 72;
 		int c = 54;
 		
 		if (a > b && a > c) {
